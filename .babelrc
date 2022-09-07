@@ -1,0 +1,7 @@
+{
+  "presets": [],
+  // add babel-plugin-lit-jsx plugin
+  "plugins": [
+    "babel-plugin-lit-jsx"
+  ]
+}
